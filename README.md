@@ -15,6 +15,16 @@ Repos is OSS Repository List
 2018年に開発され始めたライブラリで他のGUIライブラリのラッパーとなっているらしい。
 簡素のGUIであれば他のライブラリを直接利用する場合に比べて半分程度のコード量で実装可能とのこと。
 
+## LLVM
+- [SpiritKaleidoscope](https://github.com/KKostya/SpiritKaleidoscope)
+
+C++ Boostライブラリの`boost::split`を利用して実装されたKaleidoscope
+
+<br>
+
+- [llvm-tutorial](https://github.com/sonsongithub/llvm-tutorial)
+
+LLVM Tutorial の和訳とサンプルコードを実行するためのScriptのリポジトリ。
 
 ## Music Source Separation
 
