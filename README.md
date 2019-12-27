@@ -59,3 +59,23 @@ Wave-U-Netの実装。学習済みのモデルが提供されている。
 [Spleeter](https://github.com/deezer/spleeter)
 
 Vocal, Drums, Bass, Piano, その他に音源分離できる学習済みのモデルが提供されている。
+
+## JSON
+
+[simdjson](https://github.com/lemire/simdjson)
+
+[Parsing gigabytes of JSON per second](Parsing Gigabytes of JSON per Second) とあるようにJSON Parseが恐ろしく早いらしい。
+
+
+<br>
+
+[RapidJSON](https://github.com/Tencent/rapidjson) 
+
+Tencentが作ったC++ JSON parser. Header Onlyのライブラリ.
+
+
+<br>
+
+[PicoJSON](https://github.com/kazuho/picojson)
+
+Header OnlyのJSON parser.
