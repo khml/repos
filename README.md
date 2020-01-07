@@ -1,6 +1,12 @@
 # Repos
 Repos is OSS Repository List
 
+## Docker
+
+- [DockerSlim](https://github.com/docker-slim/docker-slim)
+
+Docker Imageサイズを最大30分の1まで小さくできる
+
 ## GUI Tools
 
 - [Streamlit](https://github.com/streamlit/streamlit)
