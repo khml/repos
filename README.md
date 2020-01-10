@@ -7,6 +7,14 @@ Repos is OSS Repository List
 
 Docker Imageサイズを最大30分の1まで小さくできる
 
+<br>
+
+
+- [docui](https://github.com/skanehira/docui)
+
+Golang製のDocker TUI アプリ
+
+
 ## GUI Tools
 
 - [Streamlit](https://github.com/streamlit/streamlit)
