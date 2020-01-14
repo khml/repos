@@ -14,6 +14,17 @@ Docker Imageサイズを最大30分の1まで小さくできる
 
 Golang製のDocker TUI アプリ
 
+<br>
+
+- [lazydocker](https://github.com/jesseduffield/lazydocker)
+
+Golang製のDocker TUI アプリ, docuiに比べるとマウス操作が目立つ
+
+<br>
+
+- [Docker SDK for Python](https://github.com/docker/docker-py)
+
+Docker Engine APIのPythonライブラリ
 
 ## GUI Tools
 
