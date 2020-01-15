@@ -1,6 +1,31 @@
 # Repos
 Repos is OSS Repository List
 
+## Docker
+
+- [DockerSlim](https://github.com/docker-slim/docker-slim)
+
+Docker Imageサイズを最大30分の1まで小さくできる
+
+<br>
+
+
+- [docui](https://github.com/skanehira/docui)
+
+Golang製のDocker TUI アプリ
+
+<br>
+
+- [lazydocker](https://github.com/jesseduffield/lazydocker)
+
+Golang製のDocker TUI アプリ, docuiに比べるとマウス操作が目立つ
+
+<br>
+
+- [Docker SDK for Python](https://github.com/docker/docker-py)
+
+Docker Engine APIのPythonライブラリ
+
 ## GUI Tools
 
 - [Streamlit](https://github.com/streamlit/streamlit)
